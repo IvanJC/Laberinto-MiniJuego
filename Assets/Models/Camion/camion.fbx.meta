@@ -18,33 +18,8 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Blanco
-    second: {fileID: 2100000, guid: a45cb01ff472e964d847bf5127ac9076, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Luz
-    second: {fileID: 2100000, guid: 36a6a33dbcd469348a5c3593b7f5f439, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
       name: SanLuisLog
-    second: {fileID: 2100000, guid: 58946b7ec6d17dc4d81cad90ae8fb662, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: borde
-    second: {fileID: 2100000, guid: 47d56e6ad0d358648a54ba73c11aae1e, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: gris
-    second: {fileID: 2100000, guid: 6dc40c8bd1bf8394eb2d7b90d85a8a9a, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: negro
-    second: {fileID: 2100000, guid: 64e22b16b964ad443b29f447cec04db5, type: 2}
+    second: {fileID: 2100000, guid: b465cd8de042688489f40125cd5e2464, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -78,7 +53,7 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
-    useSRGBMaterialColor: 1
+    useSRGBMaterialColor: 0
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1

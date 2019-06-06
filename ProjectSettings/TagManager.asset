@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - PuenteLadoA
+  - PuenteLadoB
+  - Nivel1
   layers:
   - Default
   - TransparentFX
@@ -19,7 +22,7 @@ TagManager:
   - 
   - 
   - 
-  - 
+  - niveles
   - 
   - 
   - 
@@ -40,4 +43,7 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: New Layer
+    uniqueID: 982062339
     locked: 0
